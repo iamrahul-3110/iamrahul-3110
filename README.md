@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi, I’m Rahul Gupta, a Software Development Engineer at Samsung SDS with over four years of experience in building and operating cloud-native backend systems. I work primarily with Java, Spring Boot, microservices, and Kubernetes, and I focus on system performance, security, and production reliability.
+Hi, I’m Rahul Gupta, Results-driven Full Stack Developer with 4+ years of experience building scalable, cloud-native applications and
+microservices. Strong expertise in Java, Spring Boot, React.js, and Kubernetes, with a proven track record of reducing
+system latency by 50%+ through performance optimization and caching strategies. Experienced in production support,
+P1/P2 incident resolution, and DevOps-driven CI/CD pipelines, delivering end-to-end features from design and
+implementation to deployment and monitoring.
 
 
 # 💻 Tech Stack:
